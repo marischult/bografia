@@ -5,21 +5,21 @@ font-face{
 body{
 margin: 0;
 padding: 0;
-background-color: #bba38e
+background-color: #80a1f8
 }
 header, nav, section, article, aside, footer 
 {
     padding: 10px;
     margin: 10px;
-    border: 1px solid #e6d7be
+    border: 1px solid #faffc7
 }
 header {
-    background-color: #660302;
+    background-color: #132442;
 }
 
 nav a {
     margin-right: 60px;
-    color: rgb(226, 133, 133);
+    color: #d6e264;
     text-decoration: none;
 }
 .bloque1{
@@ -33,7 +33,7 @@ aside {
 }
 footer {
     text-align: center;
-    background-color: #702f2f;
+    background-color: #c6da83;
 }
 .fto1{
     width: 30%;
